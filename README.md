@@ -7,7 +7,7 @@ Shows the current music's album art, with the three next music after it, with cl
 
 How to Use:
 1. Go to your Musicbee installation directory
-2. Go to 'MusicBee\Plugins\TheaterMode.Embeded"
+2. Go to "MusicBee\Plugins\TheaterMode.Embeded"
 3. Paste the "Chimera Skin.xml"
 4. Start Musicbee, go to your Now Playing tab
 5. Right under the tabs, click on "Now Playing" (an arrow should appear when your mouse hovers it)
