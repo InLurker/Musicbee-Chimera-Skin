@@ -1,11 +1,15 @@
 # Musicbee-Chimera-Skin
-My style of musicbee theater mode, a mix of Fluent Carrousel and Rdio Style.
+### My style of musicbee theater mode, a mix of Fluent Carrousel and Rdio Style.
 
-Shows the current music's album art, with the three next music after it, with clickable list on the right side, with functional buttons and visualizers on the bottom.
+Shows the current music's album art, the three next music after it, with clickable list on the right side, as well as functional buttons and visualizers on the bottom.
 
 ![image](https://user-images.githubusercontent.com/82582556/143687114-fca09d0e-3d16-4348-a8f1-71474ba5c3da.png)
 
-How to Use:
+#### Download:
+- From [Release](https://github.com/InLurker/Musicbee-Chimera-Skin/releases)
+- From [Official Musicbee Website](https://getmusicbee.com/addons/theater-mode/355/chimera/)
+
+#### How to Use:
 1. Go to your Musicbee installation directory
 2. Go to "MusicBee\Plugins\TheaterMode.Embeded"
 3. Paste the "Chimera Skin.xml"
